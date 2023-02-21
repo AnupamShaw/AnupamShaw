@@ -2,7 +2,7 @@
 - 👀 I’m interested in scientific computing and numerical simulations especially for the purpose of understanding the concepts of Physics in an efficient manner.
 - 🌱 I’m currently learning Julia, Mathematica, Octave, Python
 - 📫 How to reach me? You can email me at anupamshaw@outlook.com
-- 📷 Yes. The boy in the picture is me. The picture was taken maybe around 2008.
+- 📷 Yes. The boy in the picture is me. This picture was taken maybe around 2008.
 
 <!--- 💞️ I’m looking to collaborate on anything that includes learning and implementation of computational tools for visualising and modelling physical concepts.--->
 <!---
